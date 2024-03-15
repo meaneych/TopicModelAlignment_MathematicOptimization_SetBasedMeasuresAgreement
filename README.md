@@ -19,7 +19,7 @@ A challenge with assessing semantic agreement of independent topic model fits re
 
 ## UTOPIAN/EMRPC topic model fits
 Additional details regarding the primary care topic models fit to the UTOPIAN/EMRPC datasets are provided in the folllowing manuscripts: 
-- [Meaney et al. (2022). Non-negative matrix factorization temporal topic models and clinical text data identify COVID-19 pandemic effects on primary healthcare and community health in Toronto, Canada.][https://pubmed.ncbi.nlm.nih.gov/35202844/] 
-- [Meaney et al. (2023). Comparison of Methods for Estimating Temporal Topic Models From Primary Care Clinical Text Data: Retrospective Closed Cohort Study.][https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9808604/]
+- Meaney et al. (2022). Non-negative matrix factorization temporal topic models and clinical text data identify COVID-19 pandemic effects on primary healthcare and community health in Toronto, Canada.[https://pubmed.ncbi.nlm.nih.gov/35202844/] 
+- Meaney et al. (2023). Comparison of Methods for Estimating Temporal Topic Models From Primary Care Clinical Text Data: Retrospective Closed Cohort Study.[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9808604/]
 
 
