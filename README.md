@@ -13,8 +13,8 @@ A challenge with assessing semantic agreement of independent topic model fits re
 # Description of repository contents
 - List of k=1...50 topical vectors describing the UTOPIAN primary care corpus (2017-2020, Toronto, Canada).
 - List of k=1...50 topical vectors describing the EMRPC primary care corpus (2011-2015, Ontario, Canada).
-- Jupyter Notebook for optimially aligning the topical vectors from the UTOPIAN/EMRPC corpora using Jaccard coefficient as measure of agreement.
-- Jupyter Notebook for optimially aligning the topical vectors from the UTOPIAN/EMRPC corpora using set-intersection as measure of agreement.
-- Jupyter Notebook for optimially aligning the topical vectors from the UTOPIAN/EMRPC corpora using set-intersection of first-word/token as measure of agreement.
+- Jupyter Notebook for optimially aligning the topical vectors using Jaccard coefficient as measure of agreement.
+- Jupyter Notebook for optimially aligning the topical vectors using set-intersection as measure of agreement.
+- Jupyter Notebook for optimially aligning the topical vectors using set-intersection of first-word/token as measure of agreement.
 
 
